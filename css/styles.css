@@ -113,9 +113,9 @@ a:hover{
 
 /* Imagen */
 .solicitud-casillero img {
-  max-width: 100%; /* La imagen puede crecer hasta el tamaño máximo del contenedor */
+  max-width: 90%; /* La imagen puede crecer hasta el tamaño máximo del contenedor */
   height: auto; /* Mantiene la proporción de la imagen */
-  max-width: 500px; /* Puedes ajustar el tamaño de la imagen si lo deseas */
+  max-width: 370px;  /* Puedes ajustar el tamaño de la imagen si lo deseas */
   margin-right: 20px; /* Espaciado entre la imagen y el texto */
 }
 
